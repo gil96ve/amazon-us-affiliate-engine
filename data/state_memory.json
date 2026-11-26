@@ -1,5 +1,6 @@
 ﻿{
   "project_version": "1.0.0",
+  "schema_version": "1.0",
   "amazon_config": {
     "marketplace": "US",
     "store_id": "vettedgearlab-20",
@@ -7,6 +8,11 @@
     "allow_static_prices": false
   },
   "processed_asins": [],
+  "niches_tested": [],
   "winning_hooks_history": [],
+  "telemetry": {
+    "runs": 0,
+    "confidence_avg": 0
+  },
   "last_updated": "2026-11-26T18:29:50Z"
 }

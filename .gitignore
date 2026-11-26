@@ -1,0 +1,6 @@
+data/staging/
+__pycache__/
+*.py[cod]
+.env
+*.token
+*.pem
