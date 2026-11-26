@@ -1,4 +1,4 @@
-﻿{
+{
   "project_version": "1.0.0",
   "schema_version": "1.0",
   "amazon_config": {
@@ -8,11 +8,22 @@
     "allow_static_prices": false
   },
   "processed_asins": [],
-  "niches_tested": [],
-  "winning_hooks_history": [],
+  "niches_tested": [
+    "under desk cable management tray"
+  ],
+  "winning_hooks_history": [
+    {
+      "asin": null,
+      "keyword": "under desk cable management tray",
+      "run_id": "20261126T235531Z_a8c416c9",
+      "hook_index": 0,
+      "hook": "Your desk looks clean until someone looks down.",
+      "selected_at": "2026-11-26T23:55:31Z"
+    }
+  ],
   "telemetry": {
-    "runs": 0,
-    "confidence_avg": 0
+    "runs": 1,
+    "confidence_avg": 100
   },
-  "last_updated": "2026-11-26T18:29:50Z"
+  "last_updated": "2026-11-26T23:55:31Z"
 }
