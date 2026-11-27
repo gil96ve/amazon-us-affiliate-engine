@@ -448,6 +448,174 @@
         "specs_verified": true,
         "missing_fields": []
       }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T004213Z_a7eefb7d",
+      "producer": "01_SKILL_PRODUCT_ANALYST",
+      "input_sha256": "a7eefb7ddf6c53c16460811da4b0bad1418185e58e7356c072004895db78db87",
+      "created_at": "2026-11-27T00:42:13Z",
+      "status": "OK",
+      "product": {
+        "asin": "B08F6GPQQ7",
+        "source_url": "https://www.amazon.com/dp/B08F6GPQQ7?tag=vettedgearlab-20",
+        "niche_keyword": null,
+        "title": "Ring Floodlight Cam Wired Plus (2nd Gen), Home or business security, White",
+        "problem": "A dark entryway hides movement until someone is already at the door.",
+        "target_audience_us": "US homeowners and small business owners who want a lit view of an entry point.",
+        "benefits": [
+          {
+            "claim": "Wired Plus 2nd Gen floodlight camera.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Ring Floodlight Cam Wired Plus (2nd Gen)."
+          },
+          {
+            "claim": "Described for home or business security.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Home or business security."
+          },
+          {
+            "claim": "White finish.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: White."
+          }
+        ],
+        "objections": [
+          {
+            "objection": "Does it need a power outlet?",
+            "response": "The listing names it wired; check installation requirements on Amazon."
+          },
+          {
+            "objection": "Does recording require a plan?",
+            "response": "Review the recording and storage options on the listing."
+          },
+          {
+            "objection": "Is it for outdoor use?",
+            "response": "Check the mounting and weather guidance on the Amazon page."
+          },
+          {
+            "objection": "Can it light the whole driveway?",
+            "response": "Check the floodlight coverage details in the listing."
+          }
+        ],
+        "specs_verified": true,
+        "missing_fields": []
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T004213Z_cb2e692a",
+      "producer": "01_SKILL_PRODUCT_ANALYST",
+      "input_sha256": "cb2e692a71989e0c6bf3d1c9ecff14a244c864af4370eaeb009c48910aee9f45",
+      "created_at": "2026-11-27T00:42:13Z",
+      "status": "OK",
+      "product": {
+        "asin": "B07N528213",
+        "source_url": "https://www.amazon.com/dp/B07N528213?tag=vettedgearlab-20",
+        "niche_keyword": null,
+        "title": "California Air Tools 8010A 1.0 HP Ultra Quiet and Oil-Free Air Compressor, 8 Gallon Aluminum Tank, Lightweight with Wheels, 60 dBA Noise Level",
+        "problem": "A loud compressor turns a short garage task into a noisy event.",
+        "target_audience_us": "US garage users who move their compressor between projects.",
+        "benefits": [
+          {
+            "claim": "1.0 HP ultra quiet, oil-free air compressor.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: 1.0 HP Ultra Quiet and Oil-Free Air Compressor."
+          },
+          {
+            "claim": "8 gallon aluminum tank.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: 8 Gallon Aluminum Tank."
+          },
+          {
+            "claim": "Lightweight with wheels and a 60 dBA noise level.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Lightweight with Wheels, 60 dBA Noise Level."
+          }
+        ],
+        "objections": [
+          {
+            "objection": "Will it run a framing nailer?",
+            "response": "Check tool air requirements against the listing details."
+          },
+          {
+            "objection": "Is there an outlet requirement?",
+            "response": "Review the power specifications on Amazon."
+          },
+          {
+            "objection": "What does oil-free mean for upkeep?",
+            "response": "Check the maintenance guidance in the listing."
+          },
+          {
+            "objection": "How heavy is it to move?",
+            "response": "The listing calls it lightweight with wheels; confirm the weight on Amazon."
+          }
+        ],
+        "specs_verified": true,
+        "missing_fields": []
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T004213Z_4b4c2360",
+      "producer": "01_SKILL_PRODUCT_ANALYST",
+      "input_sha256": "4b4c2360c297d8d2acdf7acda700991531d4f5a49e0edd09cef76b29960d1883",
+      "created_at": "2026-11-27T00:42:13Z",
+      "status": "OK",
+      "product": {
+        "asin": "B083ZCWWWK",
+        "source_url": "https://www.amazon.com/dp/B083ZCWWWK?tag=vettedgearlab-20",
+        "niche_keyword": null,
+        "title": "RockJam 61 Key Keyboard Piano Stand With Pitch Bend Kit, Piano Bench, Headphones, Simply Piano App & Keynote Stickers",
+        "problem": "Starting piano often means buying the stand, bench, and headphones separately.",
+        "target_audience_us": "US beginners setting up a first keyboard at home.",
+        "benefits": [
+          {
+            "claim": "61-key keyboard with stand and pitch bend kit.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: 61 Key Keyboard Piano Stand With Pitch Bend Kit."
+          },
+          {
+            "claim": "Includes a piano bench and headphones.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Piano Bench, Headphones."
+          },
+          {
+            "claim": "Includes Simply Piano app access and keynote stickers.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Simply Piano App & Keynote Stickers."
+          }
+        ],
+        "objections": [
+          {
+            "objection": "Is the bench adjustable?",
+            "response": "Check the bench details on the Amazon listing."
+          },
+          {
+            "objection": "Are the headphones wired?",
+            "response": "Confirm the headphone type in the listing."
+          },
+          {
+            "objection": "Does the app need a subscription?",
+            "response": "Review the app terms on the Amazon page."
+          },
+          {
+            "objection": "How hard is assembly?",
+            "response": "Check the stand setup details in the listing."
+          }
+        ],
+        "specs_verified": true,
+        "missing_fields": []
+      }
     }
   ]
 }

@@ -8,6 +8,7 @@ Todas las mejoras se registran aquí. Formato semántico: `feat(skill): ...` / `
 - `feat(skill)`: assets multimedia locales (PNG + MP4) derivados de los prompts verificados, sin fotografías ni precios inventados.
 - `fix(skill)`: las páginas por producto pasan a `docs/p/<slug>.html` para que GitHub Pages (/docs) realmente las sirva.
 - `feat(skill)`: lote 02 generado para 3 ASIN (power bank, mesh router, micrófonos PartyBox) con PNG + MP4 locales.
+- `feat(skill)`: lote 03 generado para 3 ASIN (floodlight cam, compresor silencioso, teclado 61 teclas) con PNG + MP4 locales.
 
 ## [v1.0.0] - 2026-11-26
 
