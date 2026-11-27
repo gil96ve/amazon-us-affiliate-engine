@@ -1,4 +1,4 @@
-﻿{
+{
   "project_version": "1.0.0",
   "schema_version": "1.0",
   "amazon_config": {
@@ -7,12 +7,24 @@
     "require_ftc_disclosure": true,
     "allow_static_prices": false
   },
-  "processed_asins": [],
-  "niches_tested": [],
-  "winning_hooks_history": [],
+  "processed_asins": [
+    "B015TKUPIC"
+  ],
+  "niches_tested": [
+    "portable jump starter"
+  ],
+  "winning_hooks_history": [
+    {
+      "asin": "B015TKUPIC",
+      "run_id": "20261126T233754Z_ed7de666",
+      "hook_index": 0,
+      "hook": "Your morning starts with a click, not an engine.",
+      "selected_at": "2026-11-26T23:37:54Z"
+    }
+  ],
   "telemetry": {
-    "runs": 0,
-    "confidence_avg": 0
+    "runs": 1,
+    "confidence_avg": 100
   },
-  "last_updated": "2026-11-26T18:29:50Z"
+  "last_updated": "2026-11-26T23:37:54Z"
 }
