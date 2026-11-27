@@ -306,7 +306,20 @@
       ],
       "warnings": [
         "Benefits derived strictly from the verified public listing title."
-      ]
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:33:37Z",
+        "images": [
+          "media/wolfbox-mv24a-jump-starter/image-1.png",
+          "media/wolfbox-mv24a-jump-starter/image-2.png"
+        ],
+        "video_clips": [
+          "media/wolfbox-mv24a-jump-starter/clip-1.mp4",
+          "media/wolfbox-mv24a-jump-starter/clip-2.mp4"
+        ]
+      }
     },
     {
       "schema_version": "1.0",
@@ -408,7 +421,20 @@
       ],
       "warnings": [
         "Benefits derived strictly from the verified public listing title."
-      ]
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:33:37Z",
+        "images": [
+          "media/dewalt-20v-max-inflator/image-1.png",
+          "media/dewalt-20v-max-inflator/image-2.png"
+        ],
+        "video_clips": [
+          "media/dewalt-20v-max-inflator/clip-1.mp4",
+          "media/dewalt-20v-max-inflator/clip-2.mp4"
+        ]
+      }
     },
     {
       "schema_version": "1.0",
@@ -510,7 +536,20 @@
       ],
       "warnings": [
         "Benefits derived strictly from the verified public listing title."
-      ]
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:33:37Z",
+        "images": [
+          "media/makita-dmp180zx-inflator/image-1.png",
+          "media/makita-dmp180zx-inflator/image-2.png"
+        ],
+        "video_clips": [
+          "media/makita-dmp180zx-inflator/clip-1.mp4",
+          "media/makita-dmp180zx-inflator/clip-2.mp4"
+        ]
+      }
     }
   ]
 }

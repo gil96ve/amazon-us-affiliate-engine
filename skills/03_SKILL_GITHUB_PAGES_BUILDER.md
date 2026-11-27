@@ -11,7 +11,7 @@
 - **mode:** `HEADLESS`
 - **output:** archivo HTML completo (un solo documento). Sin Markdown envolvente ni comentarios conversacionales.
 - **input:** registros de `data/products.json` y `data/content_assets.json` con `status === "OK"`.
-- **output_path:** `docs/index.html` (landing principal) o `p/<slug>.html` (página por producto).
+- **output_path:** `docs/index.html` (landing principal) o `docs/p/<slug>.html` (página por producto).
 
 ## [03_GITHUB_SYNC_&_STATE_MEMORY]
 - **Al iniciar:** verificar que `product.specs_verified === true` y que el guion pasó KPI 1. Leer `state_memory.amazon_config` para `store_id`, `allow_static_prices=false`, `require_ftc_disclosure=true`.

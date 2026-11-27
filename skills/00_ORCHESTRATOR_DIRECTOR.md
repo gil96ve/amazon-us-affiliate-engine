@@ -27,7 +27,7 @@
 
 **AL FINALIZAR (obligatorio):**
 1. `python scripts/validate_contracts.py` → si falla, no publicar; emitir `BLOCKED: VALIDATION_FAILED`.
-2. Hacer `merge` de staging → `data/products.json`, `data/content_assets.json`, `docs/index.html` (o `p/<slug>.html`).
+2. Hacer `merge` de staging → `data/products.json`, `data/content_assets.json`, `docs/index.html` (o `docs/p/<slug>.html`).
 3. Actualizar `data/state_memory.json` (`processed_asins`, `niches_tested`, `winning_hooks_history`, `last_updated`) y `CHANGELOG.md` si hubo `FIX:`.
 4. Append de una línea JSON a `logs/execution_log.jsonl`: `{"ts","run_id","skill","confidence","duration_ms","sync","kpi_pass"}` — **sin tokens**.
 5. Si GitHub responde: commit atómico en rama `run/<run_id>`, push y PR con `gh pr create --fill`. Si falla: escribir en `logs/offline_queue.jsonl` y marcar `Repo Sync: Pendiente`.

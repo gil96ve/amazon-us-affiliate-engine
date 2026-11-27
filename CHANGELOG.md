@@ -2,6 +2,12 @@
 
 Todas las mejoras se registran aquí. Formato semántico: `feat(skill): ...` / `fix(skill): ...` / `chore(skill): ...`.
 
+## [Unreleased]
+
+- `feat(skill)`: lote 01 generado para 3 ASIN con guion, prompts y páginas de producto.
+- `feat(skill)`: assets multimedia locales (PNG + MP4) derivados de los prompts verificados, sin fotografías ni precios inventados.
+- `fix(skill)`: las páginas por producto pasan a `docs/p/<slug>.html` para que GitHub Pages (/docs) realmente las sirva.
+
 ## [v1.0.0] - 2026-11-26
 
 ### Bootstrap (Fases 1–6)
