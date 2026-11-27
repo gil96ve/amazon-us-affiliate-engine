@@ -102,6 +102,109 @@
       "warnings": [
         "Input contained an invalid link host; the canonical ASIN was used instead."
       ]
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261126T235531Z_a8c416c9",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "a8c416c9c0df3a088e20bea120c088fb6778d341059bd5758cdf47b2d2b2b5fd",
+      "created_at": "2026-11-26T23:55:31Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "Cables pool on the floor under the desk.",
+        "A tangled bundle makes it hard to find the right plug.",
+        "Dust collects around loose power strips and adapters.",
+        "Kicking the same cable all day loosens the connection.",
+        "Cleaning under the desk means moving a nest of wires.",
+        "A shared workspace looks messy when cables hang in view.",
+        "Drilling into a desk feels like too much for a cable fix.",
+        "Power strips slide when they sit directly on the carpet.",
+        "A monitor arm and dock add more wires than expected.",
+        "Guests see the wiring before they see the workspace."
+      ],
+      "hooks": [
+        "Your desk looks clean until someone looks down.",
+        "No drill, no permanent holes, no patching later.",
+        "The cable nest under your desk has a quiet fix.",
+        "Stop kicking the same plug every afternoon.",
+        "One clamp changes what lives under the desk.",
+        "A tidy setup starts below the desktop.",
+        "Power strips belong somewhere other than the floor.",
+        "Wire clutter is the part nobody photographs.",
+        "Check the clamp range before you buy anything.",
+        "Clean the floor without moving a bundle of wires."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook exposes a flaw hidden below a tidy desktop and the pain is visual: the clamp-on tray can be shown filling with cables in one continuous shot."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "Your desk looks clean until someone looks down.",
+          "visual": "Hand lifts the steel wire tray from its box; the physical clamp-on organizer fills the frame."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "No drill, no permanent holes, no patching later.",
+          "visual": "Clamp of the physical product opening over the edge of a desk, no tools in frame."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "The cable nest under your desk has a quiet fix.",
+          "visual": "Loose cables gathered under the desk, then placed into the physical product, a steel wire tray."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "One clamp changes what lives under the desk.",
+          "visual": "Close-up of the physical product secured under the desktop with cables inside."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Give the power strip a place off the floor.",
+          "visual": "Power strip resting inside the physical product beneath the desk; side angle shows the clamp."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and see the current options.",
+          "visual": "Finished under-desk shot with the physical product holding cables; no price text on screen."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a steel wire under-desk cable tray with a visible clamp, mounted beneath a clean office desk, soft daylight, no text, no price tags.",
+          "Close-up of the physical clamp-on tray holding a few cables under a desk, shallow depth of field, neutral background, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow side-angle shot of the physical steel wire tray being clamped onto a desk edge, handheld camera, muted colors, no captions, no price overlays.",
+          "Under-desk push-in showing loose cables being placed into the physical wire organizer, steady natural light, no text."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "Your desk is tidy until someone looks down",
+          "thumbnail": "Physical wire tray visible under a clean desk"
+        },
+        {
+          "title": "A clamp-on home for loose cables",
+          "thumbnail": "Close-up of the physical clamp gripping the desk edge"
+        },
+        {
+          "title": "No drill, no holes, less clutter",
+          "thumbnail": "Cables gathered inside the physical steel tray"
+        }
+      ],
+      "comment_questions": [
+        "What is the worst cable tangle under your desk?",
+        "Would you clamp a tray under your desk or drill instead?",
+        "What lives under your desk right now?"
+      ],
+      "warnings": [
+        "Base URL https://amazon.com normalized to a US search link; no ASIN was supplied.",
+        "Long product title normalized to keyword 'under desk cable management tray' within the 60-character limit."
+      ]
     }
   ]
 }
