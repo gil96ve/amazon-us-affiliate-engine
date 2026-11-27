@@ -14,7 +14,10 @@
     "B085DV34VC",
     "B0DCBB2YTR",
     "B0C6RBS846",
-    "B0CTDJ45M4"
+    "B0CTDJ45M4",
+    "B08F6GPQQ7",
+    "B07N528213",
+    "B083ZCWWWK"
   ],
   "niches_tested": [
     "portable jump starter",
@@ -23,7 +26,10 @@
     "cordless tire inflator",
     "laptop power bank",
     "mesh wifi router",
-    "party speaker microphones"
+    "party speaker microphones",
+    "wired floodlight camera",
+    "quiet air compressor",
+    "starter keyboard bundle"
   ],
   "winning_hooks_history": [
     {
@@ -82,11 +88,32 @@
       "hook_index": 0,
       "hook": "A duet should not mean waiting in line.",
       "selected_at": "2026-11-27T00:39:14Z"
+    },
+    {
+      "asin": "B08F6GPQQ7",
+      "run_id": "20261127T004213Z_a7eefb7d",
+      "hook_index": 0,
+      "hook": "The driveway is dark until the light comes on.",
+      "selected_at": "2026-11-27T00:42:13Z"
+    },
+    {
+      "asin": "B07N528213",
+      "run_id": "20261127T004213Z_cb2e692a",
+      "hook_index": 0,
+      "hook": "The garage quiet is the feature nobody films.",
+      "selected_at": "2026-11-27T00:42:13Z"
+    },
+    {
+      "asin": "B083ZCWWWK",
+      "run_id": "20261127T004213Z_4b4c2360",
+      "hook_index": 0,
+      "hook": "The floor is not a keyboard stand.",
+      "selected_at": "2026-11-27T00:42:13Z"
     }
   ],
   "telemetry": {
-    "runs": 8,
+    "runs": 11,
     "confidence_avg": 100
   },
-  "last_updated": "2026-11-27T00:39:14Z"
+  "last_updated": "2026-11-27T00:42:13Z"
 }

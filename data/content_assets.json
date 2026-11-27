@@ -895,6 +895,351 @@
           "media/jbl-partybox-wireless-mic/clip-2.mp4"
         ]
       }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T004213Z_a7eefb7d",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "a7eefb7ddf6c53c16460811da4b0bad1418185e58e7356c072004895db78db87",
+      "created_at": "2026-11-27T00:42:13Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A package disappears and no one saw what happened.",
+        "A dark driveway hides movement until it is too late.",
+        "Checking a phone cannot replace seeing the entry point.",
+        "Wired cameras need planning near an outlet.",
+        "Business entryways need coverage after hours.",
+        "Floodlights and cameras are often two separate installs.",
+        "A false alert still pulls you away from dinner.",
+        "Visitors never know where to stand to be seen.",
+        "Battery cameras die at the wrong moment.",
+        "Recording options are unclear until you need footage."
+      ],
+      "hooks": [
+        "The driveway is dark until the light comes on.",
+        "A package vanishes and the camera missed the angle.",
+        "Wired means no battery to remember.",
+        "One unit for the light and the view.",
+        "Check the install path before the mount goes up.",
+        "The entryway is the part that matters.",
+        "Home and business use, same white unit.",
+        "A light that turns on is also a signal.",
+        "Footage is only useful if you can find it.",
+        "See the approach, not just the door."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook names a dark driveway and the pain is visible; the physical floodlight camera can be shown mounted with the approach in frame."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "The driveway is dark until the light comes on.",
+          "visual": "Product floodlight cam mounted on a wall with the driveway visible behind it."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "One unit for the light and the view.",
+          "visual": "Product body and floodlights shown together on the wall."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Wired means no battery to remember.",
+          "visual": "Product with its cable routed toward a wall outlet."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Check the install path before the mount goes up.",
+          "visual": "Product held near a mounting spot with the wall visible."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Home and business use, same white unit.",
+          "visual": "Product shown at a small storefront entry."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and compare the options.",
+          "visual": "Product lit on the wall, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a white wired floodlight camera mounted on a home wall at dusk, soft natural light, no text or price tags.",
+          "Close-up of the physical floodlight camera lens and lights on a neutral background, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical product mounted on a wall, handheld camera, no captions.",
+          "Side shot of the physical unit with its floodlight on, steady light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "The driveway after dark",
+          "thumbnail": "Product floodlight lit above a driveway"
+        },
+        {
+          "title": "One unit, light and view",
+          "thumbnail": "Physical camera and lights in one frame"
+        },
+        {
+          "title": "Check the mount first",
+          "thumbnail": "Product held beside a mounting point"
+        }
+      ],
+      "comment_questions": [
+        "Where would you mount a floodlight camera?",
+        "Do you prefer wired or battery security gear?",
+        "What do you check before buying a security camera?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:42:47Z",
+        "images": [
+          "media/ring-floodlight-cam-wired-plus/image-1.png",
+          "media/ring-floodlight-cam-wired-plus/image-2.png"
+        ],
+        "video_clips": [
+          "media/ring-floodlight-cam-wired-plus/clip-1.mp4",
+          "media/ring-floodlight-cam-wired-plus/clip-2.mp4"
+        ]
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T004213Z_cb2e692a",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "cb2e692a71989e0c6bf3d1c9ecff14a244c864af4370eaeb009c48910aee9f45",
+      "created_at": "2026-11-27T00:42:13Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A loud compressor drowns out conversation in the garage.",
+        "Oil changes turn a small project into maintenance.",
+        "A tank that is too small means waiting between tools.",
+        "Dragging a compressor across a job site wastes time.",
+        "Garage projects start late because setup is heavy.",
+        "Noise complaints arrive before the work is done.",
+        "Wheels are forgotten until the unit has to move.",
+        "A full tank runs out in the middle of a task.",
+        "Aluminum tanks and steel tanks feel different to carry.",
+        "Buying a compressor means reading more than horsepower."
+      ],
+      "hooks": [
+        "The garage quiet is the feature nobody films.",
+        "Oil-free means one less job after the job.",
+        "Eight gallons changes the pauses between tools.",
+        "Wheels matter when the floor is long.",
+        "Check the noise figure before the neighbors do.",
+        "A quiet compressor still moves air.",
+        "Lightweight is a spec you feel in the driveway.",
+        "The tank size sets the rhythm of the work.",
+        "One horsepower, eight gallons, no oil changes.",
+        "Setup should not be the hardest part."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook points to a quiet garage and the pain is audible in concept; the physical compressor can be filmed rolling across a floor beside a workbench."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "The garage quiet is the feature nobody films.",
+          "visual": "Product compressor running quietly in a garage beside a workbench."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "Oil-free means one less job after the job.",
+          "visual": "Product label in close-up on the compressor body."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Eight gallons changes the pauses between tools.",
+          "visual": "Product tank shown from the side with the wheels visible."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Wheels matter when the floor is long.",
+          "visual": "Product being rolled across a garage floor."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Check the noise figure before the neighbors do.",
+          "visual": "Product beside an open garage door with no on-screen text."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and compare the options.",
+          "visual": "Product unit in the garage, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a compact air compressor in a clean garage, soft daylight, no text or price tags.",
+          "Close-up of the physical compressor tank and wheels on a neutral floor, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical product being rolled across a garage floor, no captions.",
+          "Side shot of the physical unit beside a workbench, steady natural light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "Quiet in the garage",
+          "thumbnail": "Product compressor beside a workbench"
+        },
+        {
+          "title": "Read the oil-free label",
+          "thumbnail": "Physical label in close-up"
+        },
+        {
+          "title": "Roll it where you work",
+          "thumbnail": "Product moving across the floor"
+        }
+      ],
+      "comment_questions": [
+        "What do you use a compressor for most often?",
+        "Do you care more about noise or tank size?",
+        "Where does your compressor live when not in use?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:42:47Z",
+        "images": [
+          "media/california-air-tools-8010a/image-1.png",
+          "media/california-air-tools-8010a/image-2.png"
+        ],
+        "video_clips": [
+          "media/california-air-tools-8010a/clip-1.mp4",
+          "media/california-air-tools-8010a/clip-2.mp4"
+        ]
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T004213Z_4b4c2360",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "4b4c2360c297d8d2acdf7acda700991531d4f5a49e0edd09cef76b29960d1883",
+      "created_at": "2026-11-27T00:42:13Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A keyboard without a stand turns the floor into the setup.",
+        "Starting piano means buying pieces separately.",
+        "Headphones are forgotten until practice at night.",
+        "A bench is not part of most keyboard bundles.",
+        "Stickers and app access are unclear at unboxing.",
+        "Pitch bend feels absent on entry keyboards.",
+        "61 keys is hard to picture from a title alone.",
+        "Practice space disappears when gear has no home.",
+        "A first keyboard should not need a second purchase.",
+        "Beginners read the box before they read the manual."
+      ],
+      "hooks": [
+        "The floor is not a keyboard stand.",
+        "One box for the keys, bench, and headphones.",
+        "Check what comes in the box before you buy pieces.",
+        "Practice at night needs headphones.",
+        "Pitch bend is usually the missing piece.",
+        "61 keys changes what you can play.",
+        "Setup should take minutes, not a shopping trip.",
+        "The bench is part of the instrument.",
+        "Read the box before the first lesson.",
+        "A starter kit should start in one delivery."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook frames a visible setup failure and the pain is filmable; the physical keyboard, stand, bench, and headphones can be shown assembled in one take."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "The floor is not a keyboard stand.",
+          "visual": "Product keyboard on its stand with the bench beside it."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "One box for the keys, bench, and headphones.",
+          "visual": "Product items arranged beside the open box."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Check what comes in the box before you buy pieces.",
+          "visual": "Product box and contents shown together on a table."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Practice at night needs headphones.",
+          "visual": "Product headphones resting on the keyboard bench."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Pitch bend is usually the missing piece.",
+          "visual": "Product control panel in close-up with the keyboard visible."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and compare the options.",
+          "visual": "Product keyboard assembled in a room, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a 61-key keyboard on a stand with a bench and headphones in a tidy room, soft daylight, no text or price tags.",
+          "Close-up of the physical keyboard control panel and pitch bend control on a neutral background, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical keyboard being set up on its stand, handheld camera, no captions.",
+          "Overhead shot of the physical keyboard, bench, and headphones arranged together, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "One box, full setup",
+          "thumbnail": "Product keyboard with bench and headphones"
+        },
+        {
+          "title": "Read the box first",
+          "thumbnail": "Physical box and contents on a table"
+        },
+        {
+          "title": "Ready for the first lesson",
+          "thumbnail": "Product keyboard assembled in a room"
+        }
+      ],
+      "comment_questions": [
+        "What would you practice first on a 61-key keyboard?",
+        "Do you prefer headphones or speakers at home?",
+        "What do you check in a keyboard bundle?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:42:47Z",
+        "images": [
+          "media/rockjam-61-key-keyboard/image-1.png",
+          "media/rockjam-61-key-keyboard/image-2.png"
+        ],
+        "video_clips": [
+          "media/rockjam-61-key-keyboard/clip-1.mp4",
+          "media/rockjam-61-key-keyboard/clip-2.mp4"
+        ]
+      }
     }
   ]
 }
