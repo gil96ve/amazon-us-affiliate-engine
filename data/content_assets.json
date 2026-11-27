@@ -205,6 +205,312 @@
         "Base URL https://amazon.com normalized to a US search link; no ASIN was supplied.",
         "Long product title normalized to keyword 'under desk cable management tray' within the 60-character limit."
       ]
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T002104Z_2ab22c01",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "2ab22c0184ef67aa1076f7dc93a907fe790b8bdff85ff61ad276055291f6222f",
+      "created_at": "2026-11-27T00:21:04Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A flat tire and a dead battery never happen on a schedule.",
+        "Carrying two separate tools fills the trunk for no reason.",
+        "A low tire changes how the car feels on the highway.",
+        "Waiting for roadside help eats the whole afternoon.",
+        "Gas station air pumps are often out of service.",
+        "A compact compressor still needs a power source.",
+        "Wrong hose adapters waste time at the worst moment.",
+        "An old battery leaves you clicking instead of starting.",
+        "Dark roadside work needs a built-in light.",
+        "One emergency should not require two purchases."
+      ],
+      "hooks": [
+        "One box for the two failures that ruin a trip.",
+        "The click and the flat tire, solved by the same unit.",
+        "Check the rating before the road tests it.",
+        "Your trunk does not need two emergency kits.",
+        "A tire at low pressure changes the whole drive.",
+        "Inflate, then start, with one device in hand.",
+        "The light matters when the problem happens at night.",
+        "Keep the cables where the compressor already lives.",
+        "Ten liters of gas, six of diesel, one compact body.",
+        "Preparation is quieter than roadside help."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook names the two failures that ruin a trip and the pain states them plainly; both can be filmed with the physical unit beside a tire and a car battery."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "A flat tire and a dead battery never share a calendar.",
+          "visual": "Product unit lifted from a car trunk with a tire visible in frame."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "This unit handles both problems.",
+          "visual": "Product body and attached compressor shown beside an open hood."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Check the gas and diesel rating before you trust it.",
+          "visual": "Product label in close-up next to the engine bay."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "The compressor is built into the same box.",
+          "visual": "Product hose connected to a tire valve, body visible."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Jumper cables and a light live here too.",
+          "visual": "Product clamps and LED shown on the workbench."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and compare the options.",
+          "visual": "Product held beside the tire with no price text on screen."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of the compact jump starter and compressor unit on a driveway, soft daylight, no text, no price tags.",
+          "Close-up of the physical unit with hose and clamps beside a car tire, neutral background, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical product being lifted from a trunk, handheld camera, muted colors, no captions.",
+          "Side shot of the physical unit inflating a tire, steady natural light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "One box for the click and the flat",
+          "thumbnail": "Product unit beside a tire under an open hood"
+        },
+        {
+          "title": "The rating to check before a road trip",
+          "thumbnail": "Product label in close-up near an engine bay"
+        },
+        {
+          "title": "Compressor, cables, and light together",
+          "thumbnail": "Product hose and clamps arranged on a workbench"
+        }
+      ],
+      "comment_questions": [
+        "Which fails more often on your car: the battery or a tire?",
+        "Would you keep one unit or two in your trunk?",
+        "What rating do you check before a trip?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T002104Z_7e026547",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "7e026547cad3eea074dd0b4a2062fefe59971c5eb405118fcd9e0f59b1add957",
+      "created_at": "2026-11-27T00:21:04Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A soft tire is easy to miss until the drive feels wrong.",
+        "Gas station pumps are not always available.",
+        "Corded compressors need an outlet you may not have.",
+        "A bulky inflator takes space you would rather use.",
+        "Checking pressure before a trip still feels like a chore.",
+        "Borrowing a pump means planning around someone else.",
+        "The wrong nozzle makes a simple task drag on.",
+        "Tire pressure changes with the season.",
+        "A flat on the road turns a short errand into a delay.",
+        "Tool-only products confuse buyers who expect a battery."
+      ],
+      "hooks": [
+        "The tire you check today changes the drive tomorrow.",
+        "No cord, no outlet, no waiting line.",
+        "A small inflator lives where the battery already does.",
+        "The pressure check nobody remembers until it matters.",
+        "Your battery platform can do more than drive tools.",
+        "Tool only means check the box before you buy.",
+        "A soft tire is rarely a loud problem.",
+        "One less reason to visit the gas pump.",
+        "Keep the inflator with the kit you already own.",
+        "The road feels different at the right pressure."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook points to a quiet but costly oversight and the pain makes it concrete; the physical inflator can be shown checking a tire in one shot."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "The tire you check today changes the drive tomorrow.",
+          "visual": "Product inflator held beside a car tire, physical unit in frame."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "No cord, no outlet, no waiting line.",
+          "visual": "Product unit shown with no cable plugged into a wall."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "It lives where your batteries already do.",
+          "visual": "Product placed next to a cordless tool battery on a bench."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Check the pressure before the road does.",
+          "visual": "Product gauge in close-up while the body stays visible."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Read the tool-only note before ordering.",
+          "visual": "Product box and unit shown together, no price text."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and see the options.",
+          "visual": "Product held at the tire with no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a compact cordless inflator beside a car tire on a clean driveway, soft daylight, no text.",
+          "Close-up of the physical inflator and its display held in one hand, neutral background, no price tags."
+        ],
+        "video_clips": [
+          "Slow handheld push-in on the physical product being picked up from a workbench, no captions.",
+          "Overhead shot of the physical unit placed against a tire valve, steady light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "The pressure check before the road does",
+          "thumbnail": "Product gauge visible beside a tire"
+        },
+        {
+          "title": "No cord, no outlet",
+          "thumbnail": "Physical inflator on a bench without a wall plug"
+        },
+        {
+          "title": "Tool only, read the box first",
+          "thumbnail": "Product next to its packaging"
+        }
+      ],
+      "comment_questions": [
+        "When did you last check your tire pressure?",
+        "Do you keep an inflator in the car or the garage?",
+        "What do you wish came in the box?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T002104Z_bee10b9e",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "bee10b9eaa263a6f84cdea1b74b6384b5c2d229032da3a12e658357aeb2bf455",
+      "created_at": "2026-11-27T00:21:04Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A sports ball loses pressure right before the game.",
+        "A Presta valve needs an adapter most pumps do not have.",
+        "Looking for an outlet mid-task breaks the flow.",
+        "A small compressor can still take up a whole shelf.",
+        "The wrong adapter leaves a tire only half inflated.",
+        "Borrowing a pump means waiting for someone else.",
+        "Seasonal pressure changes are easy to ignore.",
+        "Tool-only listings surprise people at delivery.",
+        "A flat on the way to practice ruins the evening.",
+        "Adapters scattered in a drawer are never there when needed."
+      ],
+      "hooks": [
+        "The ball is flat and the adapter is missing.",
+        "Check the valve before you check the score.",
+        "One inflator, three adapters, no outlet.",
+        "The pressure drop nobody announces.",
+        "Your battery platform already owns this task.",
+        "Tool only means look before you order.",
+        "A flat does not wait for a convenience store.",
+        "Keep the needle where the inflator lives.",
+        "The right adapter is the difference between done and stuck.",
+        "Small tools matter most when plans are tight."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook opens with a familiar small frustration and the pain is visible; the physical inflator and its adapters can be filmed in a single continuous take."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "The ball is flat and the adapter is missing.",
+          "visual": "Product inflator and adapters laid out on a table, physical unit in frame."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "Check the valve before you check the score.",
+          "visual": "Product nozzle held near a sports ball valve."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "One inflator, three adapters, no outlet.",
+          "visual": "Product body with Presta adapter, needle, and tapered adapter visible."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "The pressure drop nobody announces.",
+          "visual": "Product gauge shown while the unit rests against a tire."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "Tool only means look before you order.",
+          "visual": "Product box beside the unit, no price text on screen."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and see the options.",
+          "visual": "Product held with adapters in hand, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a cordless inflator with three adapters arranged on a neutral table, soft daylight, no text.",
+          "Close-up of the physical inflator held beside a sports ball and a tire valve, no price tags."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical product and its adapters on a table, handheld camera, no captions.",
+          "Side shot of the physical unit inflating a ball, steady natural light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "One inflator, three adapters",
+          "thumbnail": "Product with adapters arranged beside it"
+        },
+        {
+          "title": "Check the valve first",
+          "thumbnail": "Physical nozzle near a Presta valve"
+        },
+        {
+          "title": "Tool only, look before you order",
+          "thumbnail": "Product box next to the unit"
+        }
+      ],
+      "comment_questions": [
+        "What always seems to be flat when you need it?",
+        "Which adapter would you actually use?",
+        "Do you keep your inflator in the car or the garage?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ]
     }
   ]
 }
