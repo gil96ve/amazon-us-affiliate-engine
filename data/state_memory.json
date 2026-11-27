@@ -11,13 +11,19 @@
     "B015TKUPIC",
     "B0DWRYJWKG",
     "B07H39S9JQ",
-    "B085DV34VC"
+    "B085DV34VC",
+    "B0DCBB2YTR",
+    "B0C6RBS846",
+    "B0CTDJ45M4"
   ],
   "niches_tested": [
     "portable jump starter",
     "under desk cable management tray",
     "jump starter with compressor",
-    "cordless tire inflator"
+    "cordless tire inflator",
+    "laptop power bank",
+    "mesh wifi router",
+    "party speaker microphones"
   ],
   "winning_hooks_history": [
     {
@@ -55,11 +61,32 @@
       "hook_index": 0,
       "hook": "The ball is flat and the adapter is missing.",
       "selected_at": "2026-11-27T00:21:04Z"
+    },
+    {
+      "asin": "B0DCBB2YTR",
+      "run_id": "20261127T003914Z_5cf88651",
+      "hook_index": 0,
+      "hook": "Three devices, one outlet, and nowhere to sit near it.",
+      "selected_at": "2026-11-27T00:39:14Z"
+    },
+    {
+      "asin": "B0C6RBS846",
+      "run_id": "20261127T003914Z_c2949814",
+      "hook_index": 0,
+      "hook": "The room next door should not break the call.",
+      "selected_at": "2026-11-27T00:39:14Z"
+    },
+    {
+      "asin": "B0CTDJ45M4",
+      "run_id": "20261127T003914Z_86074d00",
+      "hook_index": 0,
+      "hook": "A duet should not mean waiting in line.",
+      "selected_at": "2026-11-27T00:39:14Z"
     }
   ],
   "telemetry": {
-    "runs": 5,
+    "runs": 8,
     "confidence_avg": 100
   },
-  "last_updated": "2026-11-27T00:21:04Z"
+  "last_updated": "2026-11-27T00:39:14Z"
 }
