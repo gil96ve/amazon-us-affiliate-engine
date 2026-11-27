@@ -550,6 +550,351 @@
           "media/makita-dmp180zx-inflator/clip-2.mp4"
         ]
       }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T003914Z_5cf88651",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "5cf88651442ae6b7e36e1ebc3dff8e2e57b581fa620aea05a52e34a3e95a5e46",
+      "created_at": "2026-11-27T00:39:14Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "Three devices run low at the same time away from an outlet.",
+        "A phone charger will not cover a laptop mid-workday.",
+        "Cafe outlets are limited and rarely near your seat.",
+        "Airport waits drain a battery faster than expected.",
+        "Carrying several chargers takes up the whole bag.",
+        "A low laptop battery cuts a work session short.",
+        "Travel days never follow the charging schedule you planned.",
+        "Shared chargers leave you waiting for an opening.",
+        "Power banks with weak output still leave the laptop flat.",
+        "A backup battery stays unused when it lives in a drawer."
+      ],
+      "hooks": [
+        "Three devices, one outlet, and nowhere to sit near it.",
+        "The phone charger will not save a laptop.",
+        "Check the output rating before you rely on it.",
+        "A workday should not end at the battery icon.",
+        "Keep the power where the work happens.",
+        "One pack for the devices you actually carry.",
+        "The wait at the gate is where batteries go to die.",
+        "Extra chargers are not a charging plan.",
+        "Read the capacity, then read the output.",
+        "A backup only helps when it is in the bag."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook names a familiar three-device conflict and the pain is concrete; the physical power bank can be filmed beside a laptop and phone in one frame."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "Three devices, one outlet, and nowhere to sit near it.",
+          "visual": "Product power bank placed beside a laptop and phone on a cafe table."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "The phone charger will not save a laptop.",
+          "visual": "Product connected to a laptop while a phone rests nearby."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Check the output rating before you rely on it.",
+          "visual": "Product label shown in close-up with the body still in frame."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Keep the power where the work happens.",
+          "visual": "Product moved from a bag to a desk beside an open laptop."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "One pack for the devices you actually carry.",
+          "visual": "Product with cable arranged next to a phone and tablet."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and compare the options.",
+          "visual": "Product held beside a laptop, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a power bank beside an open laptop and phone on a clean desk, soft daylight, no text or price tags.",
+          "Close-up of the physical power bank label held in one hand, neutral background, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical product being slid across a desk toward a laptop, handheld camera, no captions.",
+          "Overhead shot of the physical unit beside a phone and tablet, steady light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "Three devices, one outlet",
+          "thumbnail": "Product beside a laptop and phone"
+        },
+        {
+          "title": "Read the output first",
+          "thumbnail": "Physical label in close-up near a laptop"
+        },
+        {
+          "title": "Keep power in the bag",
+          "thumbnail": "Product being placed into a backpack"
+        }
+      ],
+      "comment_questions": [
+        "Which device dies first when you are away from an outlet?",
+        "Do you carry one charger or several?",
+        "What do you check before buying a power bank?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:39:39Z",
+        "images": [
+          "media/anker-25000mah-power-bank/image-1.png",
+          "media/anker-25000mah-power-bank/image-2.png"
+        ],
+        "video_clips": [
+          "media/anker-25000mah-power-bank/clip-1.mp4",
+          "media/anker-25000mah-power-bank/clip-2.mp4"
+        ]
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T003914Z_c2949814",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "c29498145a6a5aeca55bbe2f54390d35954e313a05da6a8ca01f634fc9a109a0",
+      "created_at": "2026-11-27T00:39:14Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "One room connects while the next one drops the call.",
+        "A weak signal makes a fast plan feel slow.",
+        "Wifi dead zones hide behind walls and floors.",
+        "Moving rooms means losing the video meeting.",
+        "An old router cannot cover a multi-level home.",
+        "Guests ask for the password before they sit down.",
+        "Streaming stalls in the room furthest from the router.",
+        "A single router leaves corners uncovered.",
+        "Setup advice online assumes a technical background.",
+        "Coverage claims are easy to ignore until you need them."
+      ],
+      "hooks": [
+        "The room next door should not break the call.",
+        "A fast plan is wasted on a weak signal.",
+        "Check the coverage figure before the dead zone does.",
+        "One unit for the rooms you actually use.",
+        "The wall is not a reason to lose the meeting.",
+        "Tri-band is a spec, not a promise.",
+        "Guests should not have to hunt for signal.",
+        "Map the rooms before you move the router.",
+        "The furthest room is the real test.",
+        "Coverage is the feature nobody measures."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook points to a visible household failure and the pain is easy to film; the physical router can be shown on a shelf with a floor plan beside it."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "The room next door should not break the call.",
+          "visual": "Product router on a shelf with a hallway visible behind it."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "A fast plan is wasted on a weak signal.",
+          "visual": "Product unit beside a laptop showing a plain connection icon."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Check the coverage figure before the dead zone does.",
+          "visual": "Product box and unit placed over a simple floor plan."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Tri-band is a spec, not a promise.",
+          "visual": "Product label in close-up with the body still visible."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "The furthest room is the real test.",
+          "visual": "Product carried toward a closed door, physical unit in frame."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and see the options.",
+          "visual": "Product on a shelf, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of a mesh router on a neutral shelf beside a laptop, soft daylight, no text or price tags.",
+          "Close-up of the physical router body and its label on a clean surface, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow handheld push-in on the physical product being placed on a shelf, no captions.",
+          "Side shot of the physical unit carried down a hallway, steady natural light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "The room next door",
+          "thumbnail": "Product on a hallway shelf"
+        },
+        {
+          "title": "Check the coverage figure",
+          "thumbnail": "Physical box beside a floor plan"
+        },
+        {
+          "title": "The furthest room test",
+          "thumbnail": "Product carried toward a door"
+        }
+      ],
+      "comment_questions": [
+        "Which room in your home has the weakest signal?",
+        "Do you use wired backhaul or wireless only?",
+        "What coverage figure matters for your floor plan?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:39:39Z",
+        "images": [
+          "media/eero-pro-7-mesh-router/image-1.png",
+          "media/eero-pro-7-mesh-router/image-2.png"
+        ],
+        "video_clips": [
+          "media/eero-pro-7-mesh-router/clip-1.mp4",
+          "media/eero-pro-7-mesh-router/clip-2.mp4"
+        ]
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T003914Z_86074d00",
+      "producer": "02_SKILL_VIRAL_SCRIPTER",
+      "input_sha256": "86074d0047a1558b0da49cd098a31ff2d4db2606e292eeb2bf80961a4ecaa6d6",
+      "created_at": "2026-11-27T00:39:14Z",
+      "status": "OK",
+      "language": "en-US",
+      "pain_points": [
+        "A gathering needs two voices at once, not one passed mic.",
+        "Cable runs across a room are a tripping hazard.",
+        "A dead microphone ends the song early.",
+        "Pairing gear during a party kills the mood.",
+        "Guests hesitate when the microphone looks complicated.",
+        "Weak sound gets lost in a crowded room.",
+        "A single mic turns a duet into a queue.",
+        "Batteries are forgotten until the middle of the event.",
+        "Compatibility is assumed and then discovered too late.",
+        "Equipment that lives in a box never gets used."
+      ],
+      "hooks": [
+        "A duet should not mean waiting in line.",
+        "Two microphones, no cable across the room.",
+        "Check the battery rating before the last song.",
+        "Pairing should finish before the guests arrive.",
+        "The room should hear the voice, not the electronics.",
+        "One speaker, two voices, no cable run.",
+        "A passed mic is a broken rhythm.",
+        "Read the compatibility line before the party.",
+        "The last song is where weak mics show up.",
+        "Keep the mics where the speaker lives."
+      ],
+      "winning_combo": {
+        "pain_point_index": 0,
+        "hook_index": 0,
+        "justification": "The hook frames a visible social failure and the pain is filmable; the physical microphones can be shown beside a PartyBox speaker in a single take."
+      },
+      "script_30s": [
+        {
+          "time": "0-5s",
+          "voiceover": "A duet should not mean waiting in line.",
+          "visual": "Product microphones held side by side beside a PartyBox speaker."
+        },
+        {
+          "time": "5-10s",
+          "voiceover": "Two microphones, no cable across the room.",
+          "visual": "Product units on a table with no cables attached."
+        },
+        {
+          "time": "10-15s",
+          "voiceover": "Check the battery rating before the last song.",
+          "visual": "Product label shown in close-up with both units in frame."
+        },
+        {
+          "time": "15-20s",
+          "voiceover": "Pairing should finish before the guests arrive.",
+          "visual": "Product units being switched on beside the speaker."
+        },
+        {
+          "time": "20-25s",
+          "voiceover": "One speaker, two voices, no cable run.",
+          "visual": "Product microphones in two hands with the speaker behind them."
+        },
+        {
+          "time": "25-30s",
+          "voiceover": "Check the latest price on Amazon and compare the options.",
+          "visual": "Product units resting on a table, no on-screen numbers."
+        }
+      ],
+      "media_prompts": {
+        "images": [
+          "Product photograph of two wireless microphones beside a PartyBox speaker in a living room, soft daylight, no text or price tags.",
+          "Close-up of the physical microphone bodies and their labels on a neutral table, no on-screen text."
+        ],
+        "video_clips": [
+          "Slow push-in on the physical microphones being picked up together, handheld camera, no captions.",
+          "Side shot of the physical units held beside a speaker, steady natural light, no text overlays."
+        ]
+      },
+      "title_thumbnail_ideas": [
+        {
+          "title": "Two voices, no cable",
+          "thumbnail": "Physical microphones beside a speaker"
+        },
+        {
+          "title": "Check the battery rating",
+          "thumbnail": "Product label in close-up"
+        },
+        {
+          "title": "Ready before guests arrive",
+          "thumbnail": "Product units switched on near the speaker"
+        }
+      ],
+      "comment_questions": [
+        "Would you use two microphones or pass one around?",
+        "Where do you keep your party gear?",
+        "What do you check before pairing wireless mics?"
+      ],
+      "warnings": [
+        "Benefits derived strictly from the verified public listing title."
+      ],
+      "generated_media": {
+        "type": "local_concept_visual",
+        "note": "Generated from verified prompts with PIL/ffmpeg; not product photography.",
+        "generated_at": "2026-11-27T00:39:39Z",
+        "images": [
+          "media/jbl-partybox-wireless-mic/image-1.png",
+          "media/jbl-partybox-wireless-mic/image-2.png"
+        ],
+        "video_clips": [
+          "media/jbl-partybox-wireless-mic/clip-1.mp4",
+          "media/jbl-partybox-wireless-mic/clip-2.mp4"
+        ]
+      }
     }
   ]
 }

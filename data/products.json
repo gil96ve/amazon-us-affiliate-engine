@@ -280,6 +280,174 @@
         "specs_verified": true,
         "missing_fields": []
       }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T003914Z_5cf88651",
+      "producer": "01_SKILL_PRODUCT_ANALYST",
+      "input_sha256": "5cf88651442ae6b7e36e1ebc3dff8e2e57b581fa620aea05a52e34a3e95a5e46",
+      "created_at": "2026-11-27T00:39:14Z",
+      "status": "OK",
+      "product": {
+        "asin": "B0DCBB2YTR",
+        "source_url": "https://www.amazon.com/dp/B0DCBB2YTR?tag=vettedgearlab-20",
+        "niche_keyword": null,
+        "title": "Anker Laptop Power Bank, 25,000mAh Travel Essential with 165W Total Output",
+        "problem": "A laptop, a phone, and a tablet all run low at the same time when you are away from an outlet.",
+        "target_audience_us": "US travelers and remote workers carrying several USB-C devices.",
+        "benefits": [
+          {
+            "claim": "Rated at 25,000mAh.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Anker Laptop Power Bank, 25,000mAh."
+          },
+          {
+            "claim": "Provides 165W total output.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: 165W Total Output."
+          },
+          {
+            "claim": "Described as a travel essential laptop power bank.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Travel Essential with 165W Total Output."
+          }
+        ],
+        "objections": [
+          {
+            "objection": "Will it be allowed on a flight?",
+            "response": "Check current airline carry-on rules and the listing details before travel."
+          },
+          {
+            "objection": "Can it charge a laptop and a phone together?",
+            "response": "Review the port layout and output guidance on the Amazon page."
+          },
+          {
+            "objection": "How long does a full recharge take?",
+            "response": "Check the listed input rating and charger requirements on Amazon."
+          },
+          {
+            "objection": "Does it include a wall charger?",
+            "response": "Confirm the box contents on the listing."
+          }
+        ],
+        "specs_verified": true,
+        "missing_fields": []
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T003914Z_c2949814",
+      "producer": "01_SKILL_PRODUCT_ANALYST",
+      "input_sha256": "c29498145a6a5aeca55bbe2f54390d35954e313a05da6a8ca01f634fc9a109a0",
+      "created_at": "2026-11-27T00:39:14Z",
+      "status": "OK",
+      "product": {
+        "asin": "B0C6RBS846",
+        "source_url": "https://www.amazon.com/dp/B0C6RBS846?tag=vettedgearlab-20",
+        "niche_keyword": null,
+        "title": "Amazon eero Pro 7 tri-band mesh Wi-Fi 7 router - Supports internet plans up to 5 Gbps, Coverage up to 2,000 sq. ft., 1-pack",
+        "problem": "Dead zones and inconsistent wireless coverage turn a normal evening into a connection hunt.",
+        "target_audience_us": "US households with large or multi-level homes on high-speed internet plans.",
+        "benefits": [
+          {
+            "claim": "Tri-band mesh Wi-Fi 7 router.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: eero Pro 7 tri-band mesh Wi-Fi 7 router."
+          },
+          {
+            "claim": "Supports internet plans up to 5 Gbps.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Supports internet plans up to 5 Gbps."
+          },
+          {
+            "claim": "Coverage up to 2,000 sq. ft. in a 1-pack.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Coverage up to 2,000 sq. ft., 1-pack."
+          }
+        ],
+        "objections": [
+          {
+            "objection": "Will one unit cover my home?",
+            "response": "Compare your floor plan with the listed coverage figure."
+          },
+          {
+            "objection": "Does it work with my ISP?",
+            "response": "Check compatibility and modem requirements on the listing."
+          },
+          {
+            "objection": "Do I need wired backhaul?",
+            "response": "Review the setup options described on Amazon."
+          },
+          {
+            "objection": "Can I add more units later?",
+            "response": "Check whether additional nodes are offered on the same listing."
+          }
+        ],
+        "specs_verified": true,
+        "missing_fields": []
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "run_id": "20261127T003914Z_86074d00",
+      "producer": "01_SKILL_PRODUCT_ANALYST",
+      "input_sha256": "86074d0047a1558b0da49cd098a31ff2d4db2606e292eeb2bf80961a4ecaa6d6",
+      "created_at": "2026-11-27T00:39:14Z",
+      "status": "OK",
+      "product": {
+        "asin": "B0CTDJ45M4",
+        "source_url": "https://www.amazon.com/dp/B0CTDJ45M4?tag=vettedgearlab-20",
+        "niche_keyword": null,
+        "title": "JBL PartyBox Wireless Mic - 2X Digital Wireless Microphones, Rechargeable Battery (20hrs), Clear Voice, Crisp Sound, Stable 2.4GHz Connection, Compatible with All PartyBox Speakers (Black)",
+        "problem": "A gathering needs microphones that are ready to hand around without cable runs or setup delays.",
+        "target_audience_us": "US users who already own a PartyBox speaker and host gatherings.",
+        "benefits": [
+          {
+            "claim": "Includes two digital wireless microphones.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: 2X Digital Wireless Microphones."
+          },
+          {
+            "claim": "Rechargeable battery with a 20-hour rating.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Rechargeable Battery (20hrs)."
+          },
+          {
+            "claim": "Uses a stable 2.4GHz connection and is compatible with all PartyBox speakers.",
+            "source": "amazon_page",
+            "verified": true,
+            "evidence": "Verified listing title: Stable 2.4GHz Connection, Compatible with All PartyBox Speakers."
+          }
+        ],
+        "objections": [
+          {
+            "objection": "Does it work with non-PartyBox speakers?",
+            "response": "The listing states PartyBox compatibility; check other pairings on Amazon."
+          },
+          {
+            "objection": "Is a receiver included?",
+            "response": "Confirm the box contents on the listing."
+          },
+          {
+            "objection": "How long does the battery last per charge?",
+            "response": "The listing title gives a 20-hour rating; verify usage details on Amazon."
+          },
+          {
+            "objection": "Can two people sing at once?",
+            "response": "The listing title identifies two digital wireless microphones."
+          }
+        ],
+        "specs_verified": true,
+        "missing_fields": []
+      }
     }
   ]
 }
